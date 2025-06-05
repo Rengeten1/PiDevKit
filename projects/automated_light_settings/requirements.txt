@@ -1,0 +1,7 @@
+bleak
+openmeteo_requests
+pandas
+requests_cache
+retry_requests 
+datetime
+asyncio
