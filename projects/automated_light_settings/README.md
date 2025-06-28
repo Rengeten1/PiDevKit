@@ -36,7 +36,3 @@ This project provides a program to automate the control of lighting using a Rasp
 - [retry-requests](https://pypi.org/project/retry-requests/)
 - pandas
 
-Install everything with:
-```
-pip install bleak openmeteo-requests requests-cache retry-requests pandas
-```

@@ -6,8 +6,7 @@ In some parts, i go a bit deeper into the technical details, that i think are wo
 
 ## Projects
 
-- **Weather Station**: Collects and displays local weather data using sensors.
-- **Object Detection**: Implements a lightweight object detection model optimized for the Pi Zero 2 W.
+- **[Automated Light Control](projects/automated_light_settings/)**: Uses OpenMeteo API to adjust lighting based on real-time sunset data.
 
 ## Setup Guides
 

@@ -1,0 +1,5 @@
+openmateo
+request_cache
+pandas
+retry_requests
+bleak
