@@ -1,5 +1,5 @@
-openmateo
-request_cache
+openmeteo_requests
+requests_cache
 pandas
 retry_requests
 bleak

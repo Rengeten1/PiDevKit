@@ -1,7 +1,5 @@
-bleak
-openmeteo_requests
+bleak 
+openmeteo-requests 
+requests-cache 
+retry-requests 
 pandas
-requests_cache
-retry_requests 
-datetime
-asyncio
