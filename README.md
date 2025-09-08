@@ -1,8 +1,8 @@
-# Raspberry Pi Zero 2 W Projects
+# PiDevKit
 
-This repository documents my experiments and projects using the Raspberry Pi Zero 2 W. It includes setup guides, project implementations, and resources I've found helpful.
+This repository documents my experiments and projects using the Raspberry Pi. It includes setup guides, project implementations, and resources I've found helpful.
 
-In some parts, i go a bit deeper into the technical details, that i think are worth sharing that i found useful during my work with the Raspberry Pi Zero 2 W.
+In some parts, i go a bit deeper into the technical details, that i think are worth sharing that i found useful during my work with the Raspberry Pi.
 
 ## Projects
 
