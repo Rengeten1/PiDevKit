@@ -1,5 +1,4 @@
 # ssh configuration
-# ====================
 This guide will help you set up SSH configuration for your Raspberry Pi Zero 2 W, allowing you to connect to it securely over the network. On my first attempts with the Raspberry Pi Zero 2 W, I faced issues with SSH configuration. This guide will help you avoid those pitfalls. 
 
 ## Prerequisites
@@ -106,6 +105,7 @@ it securely over the network. This setup allows you to manage your Raspberry Pi 
 Feel free to explore further configurations, such as setting up a static IP address or configuring additional security measures like fail2ban or UFW (Uncomplicated Firewall) to enhance the security of your Raspberry Pi.
 If you encounter any issues or have questions, don't hesitate to reach out to the Raspberry Pi community or refer to the official documentation for additional support.
 Happy tinkering with your Raspberry Pi Zero 2 W!
+
 ## Additional Resources
 - [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
 - [SSH Documentation](https://www.ssh.com/ssh/)
